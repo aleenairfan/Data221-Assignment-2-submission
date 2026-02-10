@@ -10,6 +10,6 @@ This repository contains solutions for Assignment 2.
 - assign2q5.py – Create grade bands and summary table
 - assign2q6.py – Categorize crime levels and compute unemployment
 - assign2q7.py – Extract page title and first paragraph from Wikipedia
-- assign2q8.py – Extract <h2> headings from Wikipedia and save to file
+- assign2q8.py – Extract headings from Wikipedia and save to file
 - assign2q9.py – Extract first table from Wikipedia and save as CSV
 - assign2q10.py – Find lines containing a keyword in a text file
